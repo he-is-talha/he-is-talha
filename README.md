@@ -26,4 +26,4 @@ Software Engineering Student
 [![Talha's Leetcode Stats](https://leetcard.jacoblin.cool/f219445?theme=dark&font=Livvic&ext=activity)](https://leetcode.com/f219445)
 
 ### 😴 Talha's Contribution Graph
-[![Talha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=talha9445&bg_color=000000&color=ffffff&line=04ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Talha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=he-is-talha&bg_color=658b73&color=a6fe4d&line=1c1c1c&point=00d60e&area=true&hide_border=true)](https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif)
