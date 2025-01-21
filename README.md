@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Talha
 
-Software Engineering Student
+Software Engineering Student <p align="left"> <img src="https://komarev.com/ghpvc/?username=he-is-talha&label=Profile%20views&color=0e75b6&style=flat" alt="he-is-talha" /> </p>
 <img align="right" width="390" height="280" src="https://media.tenor.com/OD5DxnyUaLgAAAAM/galaxy-brain.gif">                                                 
 - 🌱 I’m currently learning Backend Development
 - 👯 I’m looking to collaborate on Web Projects
