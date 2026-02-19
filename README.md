@@ -2,9 +2,8 @@
 
 Software Engineering Student <p align="left"> <img src="https://komarev.com/ghpvc/?username=he-is-talha&label=Profile%20views&color=0e75b6&style=flat" alt="he-is-talha" /> </p>
 <img align="right" width="390" height="280" src="https://media.tenor.com/OD5DxnyUaLgAAAAM/galaxy-brain.gif">                                                 
-- 🌱 I’m currently learning Backend Development
+- 🌱 I’m a polyglot software engineer
 - 👯 I’m looking to collaborate on Web Projects
-- 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about anything
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/talha9445) [<img src="https://img.shields.io/badge/Instagram-D12872?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/p4pattinson)
