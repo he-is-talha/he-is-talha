@@ -63,10 +63,5 @@ Polyglot Software Engineer at Cowlar(YC 17) <p align="left"> <img src="https://k
   <img height="50" src="https://img.icons8.com/color/80/kubernetes.png" title="Kubernetes" alt="Kubernetes"/>
 </p>
 
-
-
-### 💻 Workspace Spec
-<img height="40" src="https://img.shields.io/badge/Lenovo-V14_G3-ED1C24?style=for-the-badge&logo=lenovo&logoColor=white"/> <img height="40" src="https://img.shields.io/badge/Intel-i5_1235U-ED1C24?style=for-the-badge&logo=intel&logoColor=white"/> 
-
 ### 😴 Talha's Contribution Graph
 [![Talha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=he-is-talha&bg_color=658b73&color=a6fe4d&line=1c1c1c&point=00d60e&area=true&hide_border=true)](https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif)
